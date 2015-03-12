@@ -9,5 +9,5 @@
     <script type="text/javascript" src="<?php bloginfo('template_directory'); ?>/js/bootstrap.min.js"></script>
 	<?php wp_head();?>
 </head>
-<body style="background-color:red;>
+<body style="background-color:green;>
   <div class="container">
